@@ -25,12 +25,19 @@ More than 80 source files combined into a single dataset
 Historical match statistics and performance indicators
 Binary target variable:
 1 = Home Team Win
-0 = Draw or Away Team Win
-🛠 Data Preparation
-Merged and standardized data from multiple seasons and leagues.
-Cleaned missing and inconsistent values.
-Performed feature engineering and preprocessing.
-Encoded categorical variables.
+0 = Draw or Away Team Win 
+
+
+🛠 Data Preparation 
+
+Merged and standardized data from multiple seasons and leagues. 
+
+Cleaned missing and inconsistent values. 
+
+Performed feature engineering and preprocessing. 
+
+Encoded categorical variables. 
+
 Scaled and transformed features where necessary. 
 
 
